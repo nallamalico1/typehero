@@ -19,7 +19,7 @@ cut it for a use case, and they have to reach out to a community for help. We
 aim to be not only the community but the platform they can use to learn more of
 the intricacies of TypeScript's typing system.
 
-### ✨ Want to contribute?
+### Want to contribute?
 
 Please see the [`LOCAL.md`](/LOCAL.md) on how to get set up. Consider joining the [discord](https://discord.gg/WjZhvVbFHM) if you have any ideas/feedback. We'd love to hear from you!
 
